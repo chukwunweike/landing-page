@@ -1,0 +1,37 @@
+body{
+  background: #eee;
+  font-family: 'Lato', sans-serif;
+}
+
+#nav{
+  background-color:#eee;
+}
+
+#email{
+  height:27;
+  width:300px;
+  margin-left: 195px; 
+  margin-bottom: 20px;
+}
+
+#hand{
+  margin-top:145px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+#button{
+  margin-left: 265px;
+  height:35px;
+  width:150px;
+   background-color: yellowgreen;
+}
+
+.fa{
+  color: yellowgreen;
+}
+
+.card ul li{
+  background-color: #eee;
+}
+
